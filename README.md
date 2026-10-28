@@ -2,7 +2,7 @@
 
 I'm a software engineer at **Airbus**, where I build C++/Qt software for an iPad app that 40,000 pilots use every day. I care about the parts of software that have to be fast, predictable and correct.
 
-**Currently building:** [`lob-engine`](https://github.com/aayxshkumar/lob-engine), a C++20 limit order book and matching engine. It's tested against a naive reference book on every operation, and its latency is benchmarked as p50 / p99 / p99.9. About 19M operations per second on the baseline, and still optimising.
+**Currently building:** [`lob-engine`](https://github.com/aayxshkumar/lob-engine), a C++20 limit order book and matching engine. It's tested against a naive reference book on every operation, and its latency is benchmarked as p50 / p99 / p99.9. Replacing `std::map` price levels with a flat array and a bitset took it from 20.1M to 34.0M operations per second.
 
 **Selected work**
 - [`lob-engine`](https://github.com/aayxshkumar/lob-engine): matching engine, differential testing, latency benchmarks (C++20)
