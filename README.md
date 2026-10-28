@@ -11,4 +11,4 @@ I'm a software engineer at **Airbus**, where I build C++/Qt software for an iPad
 
 **Also:** Certified Kubernetes Administrator (CKA) · previously DevOps at Airbus (AWS) and LLM evaluation infrastructure at Turing.
 
-[Portfolio](https://aayush-kumar.vercel.app) · [LinkedIn](https://linkedin.com/in/aayush-kumr) · aayushkumr25@gmail.com
+[Portfolio](https://aayxshkumar.github.io) · [LinkedIn](https://linkedin.com/in/aayush-kumr) · aayushkumr25@gmail.com
