@@ -6,7 +6,7 @@ I'm a software engineer at **Airbus**, where I build C++/Qt software for an iPad
 
 **Selected work**
 - [`lob-engine`](https://github.com/aayxshkumar/lob-engine): matching engine, differential testing, benchmarks on synthetic and real Binance data (C++20)
-- [`gemini-code`](https://github.com/aayxshkumar/gemini-code): a coding-agent CLI with cross-platform CI on Windows, Linux and macOS (TypeScript)
+- [`gemini-code`](https://github.com/aayxshkumar/gemini-code): my fork of Muruganandham18/gemini-code, a Gemini coding-agent CLI. I added Windows-first support, crash resume and multi-root workspaces (TypeScript)
 - [`ai-hedge-fund`](https://github.com/aayxshkumar/ai-hedge-fund): an extension of virattt/ai-hedge-fund for Indian markets, with NSE/BSE data and Zerodha integration (Python)
 
 **Also:** Certified Kubernetes Administrator (CKA) · previously DevOps at Airbus (AWS) and LLM evaluation infrastructure at Turing.
