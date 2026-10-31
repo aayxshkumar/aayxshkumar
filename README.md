@@ -13,9 +13,9 @@ The [write-up](https://aayxshkumar.github.io/order-book-3x.html) walks through e
 ### Other work
 
 - [`gemini-code`](https://github.com/aayxshkumar/gemini-code): my fork of [Muruganandham18/gemini-code](https://github.com/Muruganandham18/gemini-code), a CLI that drives Gemini through browser automation. My releases (v0.8 to v0.13) added Windows-first support, crash resume and multi-root workspaces. TypeScript.
-- [`ai-hedge-fund`](https://github.com/aayxshkumar/ai-hedge-fund): extends [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund) to Indian markets, with Yahoo Finance data, NSE/BSE tickers and a Zerodha Kite Connect integration with paper and live trading modes. Python.
 - [`clickhouse-flatfile-tool`](https://github.com/aayxshkumar/clickhouse-flatfile-tool): moves data both ways between ClickHouse and CSV or TSV files, with schema mapping and a preview before each transfer. React and Node; a take-home for Zeotap.
 - [`healthtrack`](https://github.com/aayxshkumar/healthtrack): offline-first patient records that run PostgreSQL in the browser through PGlite. React and TypeScript; a take-home for Medblocks.
+- [`ai-hedge-fund`](https://github.com/aayxshkumar/ai-hedge-fund): extends [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund) to Indian markets, with Yahoo Finance data, NSE/BSE tickers and a Zerodha Kite Connect integration with paper and live trading modes. Python.
 
 Most of my other public repos are take-home assignments and earlier learning projects.
 
