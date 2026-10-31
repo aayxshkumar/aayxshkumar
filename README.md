@@ -11,6 +11,6 @@ I'm a software engineer at **Airbus**, where I build C++/Qt software for an iPad
 - [`gemini-code`](https://github.com/aayxshkumar/gemini-code): my fork of Muruganandham18/gemini-code, a Gemini coding-agent CLI. I added Windows-first support, crash resume and multi-root workspaces (TypeScript)
 - [`ai-hedge-fund`](https://github.com/aayxshkumar/ai-hedge-fund/tree/improve-decision-making): an extension of virattt/ai-hedge-fund for Indian markets, with Yahoo Finance data, NSE/BSE tickers and a Zerodha (Kite Connect) integration with paper and live trading modes (Python)
 
-**Also:** Certified Kubernetes Administrator (CKA) · before this role, a DevOps internship at Airbus (AWS) and LLM evaluation pipelines at Turing.
+**Also:** before this role, a DevOps internship at Airbus (AWS) and LLM evaluation pipelines at Turing.
 
 [Portfolio](https://aayxshkumar.github.io) · [LinkedIn](https://www.linkedin.com/in/aayush-kumr) · aayushkumr25@gmail.com
