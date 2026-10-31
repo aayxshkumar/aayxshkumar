@@ -23,4 +23,4 @@ Before this role I was a DevOps intern at Airbus, where the team adopted my AWS 
 
 I'm looking for quant developer, low-latency C++ and SRE roles.
 
-[aayxshkumar.github.io](https://aayxshkumar.github.io) · [LinkedIn](https://www.linkedin.com/in/aayush-kumr) · aayushkumr25@gmail.com
+[aayxshkumar.github.io](https://aayxshkumar.github.io) · [LinkedIn](https://www.linkedin.com/in/aayxshkumar) · aayushkumr25@gmail.com
